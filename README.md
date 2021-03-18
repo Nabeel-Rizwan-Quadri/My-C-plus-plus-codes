@@ -1,2 +1,2 @@
 # My-C-plus-plus-codes
-Contains codes of C++
+Contains codes of ITC in the language C++
